@@ -1,0 +1,20 @@
+{
+  "name": "razorpagesmovie",
+  "version": "1.0.0",
+  "description": "RazorPages Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/letthoung/RazorPagesMovie"
+  },
+  "keywords": [
+    ".NET",
+    "Core",
+    "3.0"
+  ],
+  "author": "Tung Le",
+  "license": "ISC"
+}
